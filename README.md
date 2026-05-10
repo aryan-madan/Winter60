@@ -1,6 +1,6 @@
 # Winter60
 
-![Winter60](assets/Banner.png)
+![Winter60](Assets/Banner.png)
 
 # Layout
 
