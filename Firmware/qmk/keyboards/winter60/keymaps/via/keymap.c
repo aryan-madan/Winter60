@@ -1,3 +1,6 @@
+// Copyright 2026 aryanworks
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 #include QMK_KEYBOARD_H
 
 enum layers {

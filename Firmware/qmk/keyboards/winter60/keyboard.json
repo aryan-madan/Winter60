@@ -1,14 +1,12 @@
 {
-    "manufacturer": "WNDR",
+    "manufacturer": "aryanworks",
     "keyboard_name": "Winter60",
-    "maintainer": "aryan",
+    "maintainer": "aryanworks",
     "processor": "RP2040",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
-        "command": false,
-        "console": false,
         "extrakey": true,
         "mousekey": true,
         "nkro": true
@@ -42,7 +40,7 @@
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x5760",
-        "vid": "0xFEED"
+        "vid": "0x4157"
     },
     "layouts": {
         "LAYOUT": {
