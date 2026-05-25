@@ -1,8 +1,7 @@
 # Journal
 
 ## [8] Finishing the Repo & Making BOM
-
-**May 26, 2026** 
+**May 26, 2026**  
 **2.0h**
 
 After a two-week hiatus from this project, i finally decided to complete it.
@@ -51,7 +50,7 @@ So, I renamed the file and removed whatever duplicates that were there and I ran
 
 BEHOLD THE FILE IN ALL ITS GLORY!
 
-![Winter60.uf2](Firmware.png)
+![Winter60.uf2](Assets/Firmware.png)
 
 ### Schematics
 
@@ -227,11 +226,11 @@ So, I decided on making a 60% keyboard with 4 dedicated macro keys.
 
 I wanted to make this keyboard to be a mix of a macropad, and a normal keyboard. While looking for inspiration, I found a keyboard called the Day Off 60. I really liked its layout, so I thought of making something similar.
 
-![Day Off 60](Reference.png)
+![Day Off 60](Assets/Reference.png)
 
 So, I recreated the layout on KLE. I was deliberating whether I should add a knob, or keep the keys, and I decided against the knob for now.
 
-![KLE](KLE.png)
+![KLE](Assets/KLE.png)
 
 I'm not a fan of knobs on keyboards and I think they are more suitable for macropads :P
 
