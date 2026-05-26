@@ -42,7 +42,7 @@ The Winter60 uses QMK for the firmware.
 
 # BOM
 
-The total bill of materials totaled to about $145.
+The total bill of materials totaled to about $136.
 You can see the complete [BOM.csv](BOM.csv)
 
 Made with ❤️ by Ary
