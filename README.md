@@ -41,7 +41,7 @@ The Winter60 uses QMK for the firmware.
 ![Case](Assets/Case.png)
 
 The case was modeled using Shapr3D.
-You can view the model online here: [Shapr3D](https://app.shapr3d.com/p/aef21a27-1508-4fc5-99ec-32f52b3ec96d)]
+You can view the model online here: [Shapr3D](https://app.shapr3d.com/p/aef21a27-1508-4fc5-99ec-32f52b3ec96d)
 
 The plate was generated from a plate generator.
 
