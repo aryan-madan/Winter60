@@ -1,5 +1,21 @@
 # Journal
 
+## [9] Adding a knob and a screen
+**June 3, 2026**
+**6.0h**
+
+I added a knob and a screen to the pcb.
+
+I wanted to make it more complex, so I decided to overhaul everything, I started by replacing the old mcu (rp-2040-zero) with the new one, which is the RP Pico.
+
+It is quite big and ugly, which I hate personally, but I needed the extra GPIO pins for the OLED screen and the rotary knob.
+
+I had to redo the entire schematics and the PCB and it was extremely tedious and long. I didn't manage to make the pcb fully error free, there's some issues which I'll fix next time!
+
+![PCB New](<Assets/PCB New.png>)
+
+I'll have to work on updating the case next, so it can accomodate the bigger PCB.
+
 ## [8] Finishing the Repo & Making BOM
 **May 26, 2026**  
 **2.0h**

@@ -38,9 +38,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 2.7,
+          "height": 2.7,
+          "width": 2.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -227,7 +227,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|596900|1524000|dd36621b-bf8e-40fa-8a5d-42fed35468bc|51b578f9-c860-4656-ad1f-fef2c8409a2f|/9e45a776-7007-48ff-b543-dc98423173b7|/9e45a776-7007-48ff-b543-dc98423173b7|/9e45a776-7007-48ff-b543-dc98423173b7",
+        ""
+      ],
+      [
+        "pin_to_pin|596900|2298700|a82a4cc7-23c2-4445-afe5-bd8e7d09e636|17b2a866-93b1-406b-a179-0527d43cb5eb|/9e45a776-7007-48ff-b543-dc98423173b7|/9e45a776-7007-48ff-b543-dc98423173b7|/9e45a776-7007-48ff-b543-dc98423173b7",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -452,7 +461,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboard.kicad_pro",
+    "filename": "winter.kicad_pro",
     "version": 3
   },
   "net_settings": {
