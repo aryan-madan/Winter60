@@ -1,5 +1,25 @@
 # Journal
 
+## [10] Finishing the new PCB & remodeling
+**June 6, 2026**
+**10.0h**
+
+I had to redo a LOT of the old case, and I also had to fit the new screen.
+I spent so much time figuring out how I was gonna mount out the case and I lowkey had no idea whatsoever. I got close to the giving up point again because I was so frustrated with everything.
+
+I decided to use two 2.5x8mm spacers to space the screen. I ended up making the PCB symmetrical on both sides, which did extend it. This just means the case will have to be printed in two parts, which is fine.
+
+I redid the entire firmware + added a tamagotchi thing that will stay on the screen and have different moods.
+
+![New Case](<Assets/Case New.png>)
+
+Here's a pic of the new case. I also added two more mounting holes just to make sure the pcb wouldn't like fall or tilt.
+
+I need to redo the entire BOM now and fitting this into 120$ is gonna be tight.
+Anyway's we'll see.
+
+BAI
+
 ## [9] Adding a knob and a screen
 **June 3, 2026**
 **6.0h**
