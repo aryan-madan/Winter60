@@ -47,7 +47,7 @@ The plate was generated from a plate generator.
 
 # BOM
 
-The total bill of materials totaled to about $136.
+The total bill of materials totaled to about $132.12.
 You can see the complete [BOM.csv](BOM.csv)
 
 Made with ❤️ by Ary

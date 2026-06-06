@@ -1,5 +1,16 @@
 # Journal
 
+## [12] Final Case!
+**June 7, 2026**
+**3.0hr**
+
+I redid the whole case, made it bigger to accomodate the new pcb and added screw holes! I added this cool snowflake engraving on the top right, which was really empty, which also give it a cool winter theme! 
+
+Overall I'm pretty happy with the new case!
+
+![Case Final](<Assets/Case Final 1.png>)
+![Case Final 2](<Assets/Case Final 2.png>)
+
 ## [11] New BOM
 **June 6, 2026**
 **1.0hr**
