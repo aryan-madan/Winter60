@@ -1,11 +1,15 @@
 Item Name,Qty,Price (USD),Item Link
-Waveshare RP2040 Zero,1,5.5,https://sharvielectronics.com/product/waveshare-rp2040-zero-without-header/
-PCB,5,48.52,https://lioncircuits.com/
+RP Pi Pico,1,4.04,https://sharvielectronics.com/product/waveshare-rp2040-zero-without-header/
+PCB,5,52.86,https://lioncircuits.com/
 Switches,70,17.56,https://keyora.store/products/keygeek-y3
-Keycaps,1,35.7,https://keyora.store/products/prussian-alert-english-pbt-keycap-set-cherry-profile-174-keys
+Keycaps,1,26.33,https://keyora.store/products/mw-alpenglow-inspired-keycap-set-cherry-profile-pbt-136-keys-copy
 Hotswap Sockets,70,7.35,https://stackskb.com/store/gateron-hotswap-sockets/
 Diodes,70,3.57,https://stackskb.com/store/1n4148-sod-123-smd-diode/
 Stabilizers,1,16.75,https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/?attribute_combination=4%2B1+Set&attribute_spacebar-size=6.25U
 Screws M2.5 x 4mm,6,0.94,https://onlyscrews.in/products/m2-5-x-4mm-phillips-round-head-laptop-screw-copy
+M2.5x8mm Standoff Spacer,2,0.09,https://onlyscrews.in/products/m2-5-x-8mm-female-to-female-brass-with-nickel-plating-hex-threaded-standoff-spacer
+Male Header 2.54mm,1,0.09,https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/
+I2C Oled 4pin,1,1.78,https://robu.in/product/4pin-oled-display-module-blue-color/
+EC11 Rotary Encoder,1,0.58,https://robu.in/product/hongyan-ec11h-7ce20p1zd20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/
 ,,,
-Total,,135.9 USD,
+Total,,131.94 USD,

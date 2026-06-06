@@ -1,7 +1,16 @@
 # Journal
 
-## [10] Finishing the new PCB & remodeling
+## [11] New BOM
 **June 6, 2026**
+**1.0hr**
+
+I redid the BOM today, and I tried to reduce the price as much as I can.
+I'll do the case today aswell but later.
+
+I added links for the rotary encoder, screen, and standoffs, and found a cheaper keycap set.
+
+## [10] Finishing the new PCB & remodeling
+**June 5, 2026**
 **10.0h**
 
 I had to redo a LOT of the old case, and I also had to fit the new screen.
