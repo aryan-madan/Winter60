@@ -1,10 +1,6 @@
 # Winter60
 
-![Winter60](Assets/Banner.png)
-
-#### This project was transferred from Macondo to Open Sauce.
-
-Here's the Macondo project link: https://macondo.hackclub.com/projects/2084
+![Winter60](<Assets/Banner New.png>)
 
 # Backstory
 
@@ -17,7 +13,7 @@ I made my first keyboard in Blueprint, which also my first ever hardware project
 The Winter has a 60% layout with 4 macro keys in the left.
 The macro keys provide dedicated support for macros, which can be bound to in-game callouts, hotkeys, etc.
 
-![KLE](Assets/KLE.png)
+On the right side are the MCU and screen, which acts like a tamagotchi!
 
 # Firmware
 
@@ -30,11 +26,11 @@ The Winter60 uses QMK for the firmware.
 
 ## Schematics
 
-![Schematics](Assets/Schematics.png)
+![Schematics](<Assets/Schematics New.png>)
 
 ## PCB
 
-![PCB](Assets/PCB.png)
+![PCB](<Assets/PCB New x2.png>)
 
 # CAD
 

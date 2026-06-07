@@ -1,5 +1,12 @@
 # Journal
 
+## [13] Updated README and graphics!
+**June 7, 2026**
+**1.0hr**
+
+I updated the silkscreen to a new design and I made new graphics, and I updated the readme!
+
+
 ## [12] Final Case!
 **June 7, 2026**
 **3.0hr**
